@@ -1,5 +1,7 @@
-## Hi there 👋
+## Welcome to my humble abode 👋
 
+My single minded purpose is to leverage Deep Learning and Computer Vision in the following domains
+Agriculture, Aerospace, Aeronautics
 <!--
 **spurani/spurani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
